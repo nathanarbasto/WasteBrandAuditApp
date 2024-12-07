@@ -1,0 +1,25 @@
+Palmolive,10,Non-Biodegradable,02/11/2024 12:00:00 am
+Nido,10,Non-Biodegradable,04/11/2024 12:00:00 am
+Delight,60,Non-Biodegradable,04/11/2024 12:00:00 am
+Bread,40,Biodegradable,04/11/2024 12:00:00 am
+Rice,80,Biodegradable,04/11/2024 12:00:00 am
+Combi,10,Non-Biodegradable,11/11/2024 12:00:00 am
+Toblerone,30,Non-Biodegradable,11/11/2024 12:00:00 am
+Eggs,50,Biodegradable,11/11/2024 12:00:00 am
+Lucky Me Pancit Canton,30,Non-Biodegradable,14/11/2024 12:00:00 am
+Cream-o,10,Non-Biodegradable,14/11/2024 12:00:00 am
+Downy,20,Non-Biodegradable,15/11/2024 12:00:00 am
+Mountain Dew,40,Non-Biodegradable,15/11/2024 12:00:00 am
+Nature's Spring,20,Non-Biodegradable,15/11/2024 12:00:00 am
+Siopao,20,Biodegradable,16/11/2024 12:00:00 am
+Ice,5,Non-Biodegradable,16/11/2024 12:00:00 am
+Delight,50,Non-Biodegradable,17/11/2024 12:00:00 am
+Criss Cross,20,Non-Biodegradable,17/11/2024 12:00:00 am
+Cream-o,10,Non-Biodegradable,17/11/2024 12:00:00 am
+Fresca,40,Non-Biodegradable,18/11/2024 12:00:00 am
+Rice,30,Biodegradable,18/11/2024 12:00:00 am
+Oishi Tempura,30,Non-Biodegradable,18/11/2024 12:00:00 am
+Criss Cross,20,Non-Biodegradable,18/11/2024 12:00:00 am
+Head and Shoulders,10,Non-Biodegradable,19/11/2024 12:00:00 am
+Mountain Dew,30,Non-Biodegradable,19/11/2024 12:00:00 am
+Wet Wipes,5,Biodegradable,19/11/2024 12:00:00 am
